@@ -8,7 +8,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 class BusinessClass{
 	
 //	@Autowired
@@ -43,12 +43,12 @@ class BusinessClass{
 	}
 }
 
-@Component
+//@Component
 class Dependency1{
 	
 }
 
-@Component
+//@Component
 class Dependency2{
 	
 }
