@@ -1,4 +1,4 @@
-package com.dependency.com.destroy;
+package com.dependency.project.destroy;
 
 import java.util.Arrays;
 

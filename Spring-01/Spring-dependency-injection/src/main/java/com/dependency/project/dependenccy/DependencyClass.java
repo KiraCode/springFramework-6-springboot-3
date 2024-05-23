@@ -1,4 +1,4 @@
-package com.dependency.com.dependenccy;
+package com.dependency.project.dependenccy;
 
 import java.util.Arrays;
 

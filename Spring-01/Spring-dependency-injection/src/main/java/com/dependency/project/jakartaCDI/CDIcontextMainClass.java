@@ -1,4 +1,4 @@
-package com.dependency.com.jakartaCDI;
+package com.dependency.project.jakartaCDI;
 
 import java.util.Arrays;
 

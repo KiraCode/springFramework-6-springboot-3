@@ -1,4 +1,4 @@
-package com.dependency.com.lazyInitialising;
+package com.dependency.project.lazyInitialising;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
