@@ -1,4 +1,4 @@
-package com.dependency.com.scope;
+package com.dependency.project.scope;
 
 import java.util.Arrays;
 

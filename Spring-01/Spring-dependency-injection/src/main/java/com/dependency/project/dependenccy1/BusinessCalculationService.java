@@ -1,11 +1,11 @@
-package com.dependency.com.dependenccy1;
+package com.dependency.project.dependenccy1;
 
 import java.util.Arrays;
 
 import org.springframework.stereotype.Component;
 
 @Component
-class BusinessCalculationService {
+public class BusinessCalculationService {
 
 	private DataService dataService;
 

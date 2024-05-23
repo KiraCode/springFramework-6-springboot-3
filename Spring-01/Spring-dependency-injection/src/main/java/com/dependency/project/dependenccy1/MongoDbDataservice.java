@@ -1,4 +1,4 @@
-package com.dependency.com.dependenccy1;
+package com.dependency.project.dependenccy1;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
