@@ -6,13 +6,14 @@ import org.springframework.stereotype.Repository;
 import com.example.jpahibernate.course.Course;
 
 import jakarta.persistence.EntityManager;
+import jakarta.persistence.PersistenceContext;
 import jakarta.transaction.Transactional;
 
 @Repository
 @Transactional
 public class CourseJpaRepository {
 
-	@Autowired
+	@PersistenceContext
 	private EntityManager manager;
 
 	public void insert(Course course) {
